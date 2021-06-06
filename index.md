@@ -4,7 +4,7 @@
 
 ### Data Visualization
 
-[Geospatial Visualization](/sample_page)
+[Geospatial Visualization](/geospatial-visualization)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
