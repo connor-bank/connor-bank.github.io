@@ -5,7 +5,7 @@
 ### Data Visualization
 
 [Geospatial Visualization](https://github.com/connor-bank/geospatial-visualization)
-<img src="/images/radialchart.png?raw=true"/>
+<img src="/images/radialchart.PNG?raw=true"/>
 
 ---
 
