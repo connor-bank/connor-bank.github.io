@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Visualization
 
-[Project 1 Title](/sample_page)
+[Geospatial Visualization](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
