@@ -5,7 +5,8 @@
 ### Data Visualization
 
 [Geospatial Visualization](/geospatial-visualization)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mapdetail.png?raw=true"/>
+<img src="images/radialchart.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
