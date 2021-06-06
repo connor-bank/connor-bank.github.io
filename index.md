@@ -6,9 +6,8 @@
 
 [Geospatial Visualization](https://github.com/connor-bank/geospatial-visualization)
 <br><br>
-<img src="/images/radialchart.PNG?raw=true"/>
-<br>
 <img src="/images/mapdetail.PNG?raw=true"/>
+<br>
 
 ---
 
