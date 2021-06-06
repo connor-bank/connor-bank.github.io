@@ -5,8 +5,7 @@
 ### Data Visualization
 
 [Geospatial Visualization](https://github.com/connor-bank/geospatial-visualization)
-![](/images/mapdetail.png "Map Hover Details")
-<img src="images/radialchart.png?raw=true"/>
+<img src="/images/radialchart.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
