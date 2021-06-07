@@ -1,13 +1,5 @@
 ## Portfolio
 
----
-
-### Data Visualization
-
-[Geospatial Visualization](https://github.com/connor-bank/geospatial-visualization)
-<br><br>
-<img src="/images/mapdetail.PNG?raw=true"/>
-<br>
 
 ---
 
@@ -16,6 +8,15 @@
 [Time-Series Forecasting With Prophet](https://github.com/connor-bank/ProphetTimeSeries)
 <br><br>
 <img src="/images/accuracy.PNG?raw=true"/>
+
+---
+
+### Data Visualization
+
+[Geospatial Visualization](https://github.com/connor-bank/geospatial-visualization)
+<br><br>
+<img src="/images/mapdetail.PNG?raw=true"/>
+<br>
 
 ---
 
