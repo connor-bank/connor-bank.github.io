@@ -13,7 +13,8 @@
 
 ### Time-Series Forecast
 
-[Project 2 Title](https://github.com/connor-bank/ProphetTimeSeries)
+[Time-Series Forecasting With Prophet](https://github.com/connor-bank/ProphetTimeSeries)
+<br><br>
 <img src="/images/accuracy.PNG?raw=true"/>
 
 ---
