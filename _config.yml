@@ -3,7 +3,7 @@ logo: "/images/profilecropped.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Inquisitive Data Scientist and Analyst
   <br><br>
-  Interests: Machine learning, data mining, and automation
+  Interests: <br>Machine learning<br>Data mining<br>Automation
   <br><br>
   <a href="https://www.linkedin.com/in/connorbank/">View My LinkedIn Profile</a> 
   
