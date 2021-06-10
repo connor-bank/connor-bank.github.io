@@ -22,7 +22,7 @@
 
 ### Image Classification
 
-[Pokemon Image Scrape and Classify](http://example.com/)
+[Pokemon Image Scrape and Classify](https://github.com/connor-bank/pokemonclassifier)
 <br><br>
 <img src="/images/pokefier.PNG?raw=true"/>
 <br>
