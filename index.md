@@ -1,5 +1,10 @@
 ## Portfolio
+---
+### NBA MVP Predictor
 
+[Web Scraping and Machine Learning for NBA MVP Prediction](https://github.com/connor-bank/NBAMVP)
+<br><br>
+<img src="/images/MVP.PNG?raw=true"/>
 
 ---
 
